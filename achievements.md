@@ -1,34 +1,29 @@
 # Achievements  
 ## Surya Dev Varma Y - Data Engineer  
 
-I am passionate about transforming raw data into valuable insights through innovative data engineering practices. Here are some key achievements from my career:  
+I am a dedicated Data Engineer with over 6 years of experience in designing, building, and optimizing data pipelines and cloud-based data solutions.  
 
-### Professional Achievements  
+### Professional Achievements:  
 
-#### Frost Bank (Jan 2024 - Present)  
-- **Reduced data processing time by 30%** through optimized **ETL pipeline design** using **AWS Glue** and **Redshift**.  
-- Developed an **Enterprise Data Lake** to support real-time data storage, analytics, and reporting.  
-- Integrated data from external sources with complex **AWS Glue ETL processes**.  
+#### Data Engineer | Frost Bank (Jan 2024 - Present)  
+- Designed and set up an **Enterprise Data Lake** to support data storage, processing, analytics, and reporting.  
+- Developed complex **ETL processes** using **AWS Glue** to migrate data from external sources to **AWS Redshift**.  
+- Achieved a **30% reduction in data processing time** by optimizing data ingestion pipelines.  
 
-#### Via West (Jun 2021 - May 2023)  
-- Implemented automated deployment with **Terraform** and CI/CD pipelines using **Jenkins**.  
-- Enhanced data visibility through **Tableau** and **QuickSight** dashboards.  
-- Created scalable data ingestion pipelines using **AWS Glue** and **Athena**.  
+#### Data Engineer | Via West (Jun 2021 - May 2023)  
+- Automated deployment using **Terraform** and set up CI/CD pipelines using **Jenkins**.  
+- Enhanced data visibility through **Tableau** and **Quicksight** dashboards.  
+- Built data ingestion pipelines using **AWS Glue** and **Athena** for efficient reporting.  
 
-#### UPMC (Jan 2018 - Jun 2021)  
-- Built **ETL pipelines** with **AWS Glue** and **PySpark** for migrating data from **S3** to **Redshift**.  
-- Automated data processing with **Apache Airflow**, improving efficiency and reducing manual intervention.  
-- Developed **real-time analytics dashboards** using **Tableau** and **AWS QuickSight**.  
+#### Data Engineer | UPMC (Jan 2018 - Jun 2021)  
+- Developed **ETL pipelines** using **AWS Glue** and **PySpark** to migrate data from **S3** to **Redshift**.  
+- Automated data integration with **Apache Airflow**, enabling scheduled data processing.  
+- Built **real-time analytics dashboards** using **Tableau** and **AWS QuickSight**.  
 
-### Additional Achievements  
-- Successfully migrated on-premise data to the **AWS Cloud**, improving data accessibility and performance.  
-- Implemented **Python** and **Shell scripting** for automation, reducing manual data handling by 50%.  
-- Maintained data security through **IAM policies**, **encryption**, and robust access control mechanisms.  
-
-### Key Skills Demonstrated  
+### Technologies Used:  
 - **Cloud Platforms:** AWS (S3, Redshift, Glue, Lambda, Athena, EMR, Kinesis)  
 - **Data Processing:** PySpark, Python, SQL  
-- **Data Visualization:** Tableau, AWS QuickSight  
-- **Automation & CI/CD:** Terraform, Jenkins  
+- **DevOps Tools:** Terraform, Jenkins  
+- **Data Visualization:** Tableau, QuickSight  
 - **Database Management:** PostgreSQL, AWS RDS  
 
