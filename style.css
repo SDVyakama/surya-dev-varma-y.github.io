@@ -3,7 +3,15 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    color: #333;
+    color: #ffffff; /* Changed color to white */
     font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, li {
+    color: #ffffff; /* Ensures all text elements are white */
+}
+
+a:hover {
+    color: #f0f0f0; /* Slightly lighter on hover */
 }
 
